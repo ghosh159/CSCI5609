@@ -6,7 +6,7 @@ import java.rmi.RemoteException;
 public class CreateNodes {
 
     public static void main(String[] args) {
-        int num_nodes = 3;
+        int num_nodes = 2;
         String hostname = "localhost";
         int rmiport = 1099;
         try{

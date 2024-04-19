@@ -48,10 +48,10 @@ public class ChordNode implements Node {
             try {
                 System.out.println(this.printFingerTable());
             } catch (RemoteException e) {
-                // TODO Auto-generated catch block
                 e.printStackTrace();
             }
             update_others();
+            //Update dictionary based on successor
         }
     }
 
@@ -60,8 +60,7 @@ public class ChordNode implements Node {
             Node node_prime = (Node) Naming.lookup(n_prime_url);
             int n = this.id;
             this.fingerTable[0] = node_prime.findSuccessor(FNV1aHash.modulo31Add(n, (int) Math.pow(2, 0)), false);
-            this.successor = fingerTable[0];
-            Node successor_node = (Node) Naming.lookup(this.successor);
+            Node successor_node = (Node) Naming.lookup(this.successor());
             this.predecessor = successor_node.predecessor();
             successor_node.setPredecessor(this.url);
             for (int i = 0; i < m - 1; i++) {
@@ -208,7 +207,8 @@ public class ChordNode implements Node {
     @Override
     public String printFingerTable() throws RemoteException {
         StringBuilder output = new StringBuilder("Finger Table for Node " + this.nodeId + "\n");
-        output.append("Key: " + this.id);
+        output.append("Key: " + this.id + "\n");
+        output.append("Predecessor: " + this.predecessor + " " + this.predecessor() + "\n");
         for (int i = 0; i < m; i++) {
             output.append(i).append(" -> ").append(this.fingerTable[i]).append("\n");
         }
