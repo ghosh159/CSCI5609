@@ -24,7 +24,7 @@ public class Client {
                     case 1:
                         System.out.print("Enter a word: ");
                         String lookupWord = scanner.nextLine();
-                        int lookupKey = hash32(lookupWord);
+                        int lookupKey = FNV1aHash.hash32(lookupWord);
                         String lookupNodeURL = node.findSuccessor(lookupKey, false);
                         Node lookupNode = (Node) Naming.lookup(lookupNodeURL);
                         String definition = lookupNode.lookup(lookupWord);
@@ -35,7 +35,7 @@ public class Client {
                         String insertWord = scanner.nextLine();
                         System.out.print("Enter the meaning: ");
                         String insertDefinition = scanner.nextLine();
-                        int insertKey = hash32(insertWord);
+                        int insertKey = FNV1aHash.hash32(insertWord);
                         String insertNodeURL = node.findSuccessor(insertKey, false);
                         Node insertNode = (Node) Naming.lookup(insertNodeURL);
                         insertNode.insert(insertWord, insertDefinition);
@@ -52,10 +52,5 @@ public class Client {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
-
-    private static int hash32(String key) {
-        // Implement the FNV-1a hash function
-        // ...
     }
 }

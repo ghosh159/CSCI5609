@@ -21,7 +21,7 @@ public class DictionaryLoader {
                 if (parts.length == 2) {
                     String word = parts[0].trim();
                     String definition = parts[1].trim();
-                    int key = hash32(word);
+                    int key = FNV1aHash.hash32(word);
                     String nodeURL = node.findSuccessor(key, false);
                     Node destinationNode = (Node) Naming.lookup(nodeURL);
                     destinationNode.insert(word, definition);
@@ -31,10 +31,5 @@ public class DictionaryLoader {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
-
-    private static int hash32(String key) {
-        // Implement the FNV-1a hash function
-        // ...
     }
 }
