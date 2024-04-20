@@ -81,7 +81,9 @@ public class ChordNode implements Node {
             for (int i = 0; i < m; i++) {
                 String p = findPredecessor(FNV1aHash.modulo31Add(FNV1aHash.modulo31Subtract(this.id, (int) Math.pow(2, i)), 1), false);
                 Node p_node = (Node) Naming.lookup(p);
+                System.out.println(p);
                 p_node.update_finger_table(this.url, i);
+                System.out.println(p_node.printFingerTable());
             }
         }catch (Exception e){
             e.printStackTrace();
@@ -131,7 +133,7 @@ public class ChordNode implements Node {
     public String findPredecessor(int key, boolean traceFlag) throws RemoteException {
         try {
             String n_prime_url = this.url;
-            Node n_prime_node = this;
+            Node n_prime_node = (Node) Naming.lookup(n_prime_url);
             
             while(!(left_half_open(FNV1aHash.hash32(n_prime_url), key, FNV1aHash.hash32(n_prime_node.successor())))) {
                 if (n_prime_url.equals(n_prime_node.successor())) {
@@ -141,7 +143,7 @@ public class ChordNode implements Node {
                     return this.predecessor;
                 }
                 // System.out.println("X: " + FNV1aHash.hash32(n_prime_url) + "\tY: " + key + "\tZ: " + FNV1aHash.hash32(n_prime_node.successor()));
-                n_prime_url = closestPrecedingFinger(key);
+                n_prime_url = n_prime_node.closestPrecedingFinger(key);
                 n_prime_node = (Node) Naming.lookup(n_prime_url);
             }
             return n_prime_url;
