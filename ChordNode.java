@@ -223,12 +223,20 @@ public class ChordNode implements Node {
 
     @Override
     public void shutdown() throws RemoteException {
-        try{
-            Registry registry = LocateRegistry.getRegistry(rmiport);
-            registry.unbind("node_" + this.nodeId);
+        try {
+            // Get the local RMI registry
+            System.out.println("Shutting down the RMI server");
+            Registry localRegistry = LocateRegistry.getRegistry(rmiport);
+    
+            // Unbind the service from the RMI registry
+            localRegistry.unbind("node_" + this.nodeId);
+            System.out.println("Unbound from the RMI registry");
+    
+            // Unexport the object from the RMI runtime
             UnicastRemoteObject.unexportObject(this, true);
-        }catch (Exception e){
-            e.printStackTrace();
+            System.out.println("Shut down the RMI server");
+        } catch (Exception e) {
+            System.err.println("Exception in shutdown: " + e.getMessage());
         }
     }
 
