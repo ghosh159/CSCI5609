@@ -45,13 +45,8 @@ public class ChordNode implements Node {
             this.predecessor = this.url;
         }else{
             init_finger_table("//" + this.hostname + ":" + this.rmiport + "/node_0");
-            try {
-                System.out.println(this.printFingerTable());
-            } catch (RemoteException e) {
-                e.printStackTrace();
-            }
             update_others();
-            //Update dictionary based on successor
+            System.out.println("Joined the Chord Ring");
         }
     }
 
@@ -131,7 +126,7 @@ public class ChordNode implements Node {
     public String findPredecessor(int key, boolean traceFlag) throws RemoteException {
         try {
             String n_prime_url = this.url;
-            Node n_prime_node = this;
+            Node n_prime_node = (Node) Naming.lookup(n_prime_url);
             
             while(!(left_half_open(FNV1aHash.hash32(n_prime_url), key, FNV1aHash.hash32(n_prime_node.successor())))) {
                 if (n_prime_url.equals(n_prime_node.successor())) {
@@ -140,8 +135,7 @@ public class ChordNode implements Node {
                 if (key == this.id) {
                     return this.predecessor;
                 }
-                // System.out.println("X: " + FNV1aHash.hash32(n_prime_url) + "\tY: " + key + "\tZ: " + FNV1aHash.hash32(n_prime_node.successor()));
-                n_prime_url = closestPrecedingFinger(key);
+                n_prime_url = n_prime_node.closestPrecedingFinger(key);
                 n_prime_node = (Node) Naming.lookup(n_prime_url);
             }
             return n_prime_url;
@@ -196,12 +190,19 @@ public class ChordNode implements Node {
 
     @Override
     public boolean insert(String word, String definition) throws RemoteException {
-        return false;
+        try {
+            this.dictionary.put(word, definition);
+            return true;
+        }catch (Exception e){
+            e.printStackTrace();
+            return false;
+        }
+        
     }
 
     @Override
     public String lookup(String word) throws RemoteException {
-        return null;
+        return this.dictionary.get(word);
     }
 
     @Override
@@ -258,7 +259,6 @@ public class ChordNode implements Node {
 
             Naming.bind(url, chordNodeStub);
 
-            System.out.println("Joined chord ring");
             System.out.println("Started Node_" + nodeID + " on host: " + InetAddress.getLocalHost().getCanonicalHostName() );
 
             int seconds = 3600;
