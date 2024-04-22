@@ -22,8 +22,12 @@ public class DictionaryLoader {
                     String word = parts[0].trim();
                     String definition = parts[1].trim();
                     int key = FNV1aHash.hash32(word);
+                    System.out.println("Inserting word: " + word + ", key: " + key);
                     String nodeURL = node.findSuccessor(key, false);
+                    System.out.println("Destination node URL: " + nodeURL);
+
                     Node destinationNode = (Node) Naming.lookup(nodeURL);
+                    System.out.println("Destination node found: " + (destinationNode != null));
                     destinationNode.insert(word, definition);
                 }
             }

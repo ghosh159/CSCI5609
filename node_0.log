@@ -1,0 +1,1127 @@
+2024-04-21 11:47:38 - Node created with URL: //localhost:1099/node_0
+2024-04-21 11:48:03 - Joined the Chord Ring
+2024-04-21 11:48:03 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_0
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_0
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_0
+2024-04-21 11:48:03 - Found successor //localhost:1099/node_0 for key 1013825215
+2024-04-21 11:48:03 - Returning predecessor //localhost:1099/node_0
+2024-04-21 11:48:03 - Set predecessor to //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:03 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 11:48:03 - Join lock released by //localhost:1099/node_1
+2024-04-21 11:48:33 - Node created with URL: //localhost:1099/node_0
+2024-04-21 11:48:42 - Joined the Chord Ring
+2024-04-21 11:48:42 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_0
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_0
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_0
+2024-04-21 11:48:42 - Found successor //localhost:1099/node_0 for key 1013825215
+2024-04-21 11:48:42 - Returning predecessor //localhost:1099/node_0
+2024-04-21 11:48:42 - Set predecessor to //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning successor //localhost:1099/node_1
+2024-04-21 11:48:42 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 11:48:42 - Join lock released by //localhost:1099/node_1
+2024-04-21 11:48:42 - Returning predecessor //localhost:1099/node_1
+2024-04-21 11:48:42 - Printed finger table
+2024-04-21 11:48:42 - Node shutdown completed
+2024-04-21 12:03:52 - Node created with URL: //localhost:1099/node_0
+2024-04-21 12:04:24 - Returning successor null
+2024-04-21 12:04:45 - Returning successor null
+2024-04-21 12:07:13 - Returning successor null
+2024-04-21 12:10:09 - Returning successor null
+2024-04-21 12:10:55 - Returning successor null
+2024-04-21 13:30:07 - Node shutdown completed
+2024-04-21 13:59:45 - Node created with URL: //localhost:1099/node_0
+2024-04-21 13:59:54 - Returning successor null
+2024-04-21 14:10:28 - Returning successor null
+2024-04-21 14:14:07 - Returning successor null
+2024-04-21 14:14:31 - Node created with URL: //localhost:1099/node_0
+2024-04-21 14:14:45 - Finding successor for key: 280767167
+2024-04-21 14:14:45 - Finding predecessor for key: 280767167
+2024-04-21 14:14:45 - Returning successor null
+2024-04-21 14:14:45 - Error in findPredecessor: Cannot invoke "String.getBytes()" because "<parameter1>" is null
+2024-04-21 14:14:45 - Predecessor URL: null
+2024-04-21 14:14:45 - Predecessor not found for key: 280767167
+2024-04-21 16:43:58 - Node shutdown completed
+2024-04-21 19:42:46 - Node created with URL: //localhost:1099/node_0
+2024-04-21 19:42:58 - Finding successor for key: 280767167
+2024-04-21 19:42:58 - Finding predecessor for key: 280767167
+2024-04-21 19:42:58 - Returning successor null
+2024-04-21 19:42:58 - Error in findPredecessor: Cannot invoke "String.getBytes()" because "<parameter1>" is null
+2024-04-21 19:42:58 - Predecessor URL: null
+2024-04-21 19:42:58 - Predecessor not found for key: 280767167
+2024-04-21 19:51:14 - Joined the Chord Ring
+2024-04-21 19:51:14 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 19:51:14 - Finding successor for key: 1013825215
+2024-04-21 19:51:14 - Finding predecessor for key: 1013825215
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_0
+2024-04-21 19:51:14 - Current URL: //localhost:1099/node_0
+2024-04-21 19:51:14 - Current node ID: 997047595
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_0
+2024-04-21 19:51:14 - Successor ID: 997047595
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_0
+2024-04-21 19:51:14 - Current node is its own successor
+2024-04-21 19:51:14 - Predecessor URL: //localhost:1099/node_0
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_0
+2024-04-21 19:51:14 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:51:14 - Returning predecessor //localhost:1099/node_0
+2024-04-21 19:51:14 - Set predecessor to //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning successor //localhost:1099/node_1
+2024-04-21 19:51:14 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 19:51:14 - Join lock released by //localhost:1099/node_1
+2024-04-21 19:51:14 - Returning predecessor //localhost:1099/node_1
+2024-04-21 19:51:14 - Printed finger table
+2024-04-21 19:51:14 - Node shutdown completed
+2024-04-21 19:52:07 - Node created with URL: //localhost:1099/node_0
+2024-04-21 19:52:13 - Joined the Chord Ring
+2024-04-21 19:52:13 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 19:52:13 - Finding successor for key: 1013825215
+2024-04-21 19:52:13 - Finding predecessor for key: 1013825215
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_0
+2024-04-21 19:52:13 - Current URL: //localhost:1099/node_0
+2024-04-21 19:52:13 - Current node ID: 997047595
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_0
+2024-04-21 19:52:13 - Successor ID: 997047595
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_0
+2024-04-21 19:52:13 - Current node is its own successor
+2024-04-21 19:52:13 - Predecessor URL: //localhost:1099/node_0
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_0
+2024-04-21 19:52:13 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:52:13 - Returning predecessor //localhost:1099/node_0
+2024-04-21 19:52:13 - Set predecessor to //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning successor //localhost:1099/node_1
+2024-04-21 19:52:13 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 19:52:13 - Join lock released by //localhost:1099/node_1
+2024-04-21 19:52:13 - Returning predecessor //localhost:1099/node_1
+2024-04-21 19:52:13 - Printed finger table
+2024-04-21 19:52:13 - Node shutdown completed
+2024-04-21 19:56:03 - Node created with URL: //localhost:1099/node_0
+2024-04-21 19:56:09 - Joined the Chord Ring
+2024-04-21 19:56:09 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 19:56:09 - Finding successor for key: 1013825215
+2024-04-21 19:56:09 - Finding predecessor for key: 1013825215
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_0
+2024-04-21 19:56:10 - Current URL: //localhost:1099/node_0
+2024-04-21 19:56:10 - Current node ID: 997047595
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_0
+2024-04-21 19:56:10 - Successor ID: 997047595
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_0
+2024-04-21 19:56:10 - Current node is its own successor
+2024-04-21 19:56:10 - Predecessor URL: //localhost:1099/node_0
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_0
+2024-04-21 19:56:10 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:56:10 - Returning predecessor //localhost:1099/node_0
+2024-04-21 19:56:10 - Set predecessor to //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning successor //localhost:1099/node_1
+2024-04-21 19:56:10 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 19:56:10 - Join lock released by //localhost:1099/node_1
+2024-04-21 19:56:10 - Returning predecessor //localhost:1099/node_1
+2024-04-21 19:56:10 - Printed finger table
+2024-04-21 19:56:10 - Node shutdown completed
+2024-04-21 19:57:26 - Node created with URL: //localhost:1099/node_0
+2024-04-21 19:57:32 - Joined the Chord Ring
+2024-04-21 19:57:32 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 19:57:32 - Finding successor for key: 1013825215
+2024-04-21 19:57:32 - Finding predecessor for key: 1013825215
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_0
+2024-04-21 19:57:32 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:32 - Current node ID: 997047595
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_0
+2024-04-21 19:57:32 - Successor ID: 997047595
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_0
+2024-04-21 19:57:32 - Current node is its own successor
+2024-04-21 19:57:32 - Predecessor URL: //localhost:1099/node_0
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_0
+2024-04-21 19:57:32 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:32 - Returning predecessor //localhost:1099/node_0
+2024-04-21 19:57:32 - Set predecessor to //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:32 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 19:57:32 - Join lock released by //localhost:1099/node_1
+2024-04-21 19:57:32 - Returning predecessor //localhost:1099/node_1
+2024-04-21 19:57:32 - Printed finger table
+2024-04-21 19:57:36 - Finding successor for key: 280767167
+2024-04-21 19:57:36 - Finding predecessor for key: 280767167
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:36 - Current node ID: 997047595
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Successor ID: 1013825214
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Found closest preceding finger //localhost:1099/node_1 for key 280767167
+2024-04-21 19:57:36 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:36 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:36 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:36 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:36 - Inserted word: apple, definition: a round fruit with red, yellow, or green skin and firm white flesh
+2024-04-21 19:57:36 - Finding successor for key: 645357744
+2024-04-21 19:57:36 - Finding predecessor for key: 645357744
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:36 - Current node ID: 997047595
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Successor ID: 1013825214
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Found closest preceding finger //localhost:1099/node_1 for key 645357744
+2024-04-21 19:57:36 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:36 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:36 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:36 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:36 - Inserted word: banana, definition: a long curved fruit with a yellow skin and soft sweet flesh
+2024-04-21 19:57:36 - Finding successor for key: 108289031
+2024-04-21 19:57:36 - Finding predecessor for key: 108289031
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:36 - Current node ID: 997047595
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Successor ID: 1013825214
+2024-04-21 19:57:36 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:36 - Found closest preceding finger //localhost:1099/node_1 for key 108289031
+2024-04-21 19:57:36 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:36 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:36 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: cat, definition: a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws
+2024-04-21 19:57:37 - Finding successor for key: 429343479
+2024-04-21 19:57:37 - Finding predecessor for key: 429343479
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 429343479
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: dog, definition: a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice
+2024-04-21 19:57:37 - Finding successor for key: 437181436
+2024-04-21 19:57:37 - Finding predecessor for key: 437181436
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 437181436
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: elephant, definition: a very large plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears
+2024-04-21 19:57:37 - Finding successor for key: 1681028633
+2024-04-21 19:57:37 - Finding predecessor for key: 1681028633
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1681028633
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: frog, definition: a tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping
+2024-04-21 19:57:37 - Finding successor for key: 333302225
+2024-04-21 19:57:37 - Finding predecessor for key: 333302225
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 333302225
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: giraffe, definition: a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines
+2024-04-21 19:57:37 - Finding successor for key: 1685499482
+2024-04-21 19:57:37 - Finding predecessor for key: 1685499482
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1685499482
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: horse, definition: a large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail
+2024-04-21 19:57:37 - Finding successor for key: 434560515
+2024-04-21 19:57:37 - Finding predecessor for key: 434560515
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 434560515
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: igloo, definition: a dome-shaped Eskimo house, typically built from blocks of solid snow
+2024-04-21 19:57:37 - Finding successor for key: 252769244
+2024-04-21 19:57:37 - Finding predecessor for key: 252769244
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 252769244
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: jungle, definition: an area of land overgrown with dense forest and tangled vegetation, typically in the tropics
+2024-04-21 19:57:37 - Finding successor for key: 1618585429
+2024-04-21 19:57:37 - Finding predecessor for key: 1618585429
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1618585429
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: kangaroo, definition: a large plant-eating marsupial with a long powerful tail and strongly developed hindlimbs that enable it to travel by leaping, found only in Australia and New Guinea
+2024-04-21 19:57:37 - Finding successor for key: 220287617
+2024-04-21 19:57:37 - Finding predecessor for key: 220287617
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 220287617
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: lion, definition: a large tawny-colored cat that lives in prides, found in Africa and northwestern India
+2024-04-21 19:57:37 - Finding successor for key: 1779846920
+2024-04-21 19:57:37 - Finding predecessor for key: 1779846920
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1779846920
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: monkey, definition: a small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries
+2024-04-21 19:57:37 - Finding successor for key: 1590744203
+2024-04-21 19:57:37 - Finding predecessor for key: 1590744203
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1590744203
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: nest, definition: a structure or place made or chosen by a bird for laying eggs and sheltering its young
+2024-04-21 19:57:37 - Finding successor for key: 1094735090
+2024-04-21 19:57:37 - Finding predecessor for key: 1094735090
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1094735090
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: octopus, definition: a cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell
+2024-04-21 19:57:37 - Finding successor for key: 788281471
+2024-04-21 19:57:37 - Finding predecessor for key: 788281471
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 788281471
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: penguin, definition: a flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water
+2024-04-21 19:57:37 - Finding successor for key: 263667913
+2024-04-21 19:57:37 - Finding predecessor for key: 263667913
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 263667913
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: queen, definition: the female ruler of an independent state, especially one who inherits the position by right of birth
+2024-04-21 19:57:37 - Finding successor for key: 882795291
+2024-04-21 19:57:37 - Finding predecessor for key: 882795291
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 882795291
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: rabbit, definition: a gregarious burrowing plant-eating mammal, with long ears, long hind legs, and a short tail
+2024-04-21 19:57:37 - Finding successor for key: 1342840229
+2024-04-21 19:57:37 - Finding predecessor for key: 1342840229
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1342840229
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: snake, definition: a long limbless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension
+2024-04-21 19:57:37 - Finding successor for key: 227495752
+2024-04-21 19:57:37 - Finding predecessor for key: 227495752
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 227495752
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: tiger, definition: a very large solitary cat with a yellow-brown coat striped with black, native to the forests of Asia but becoming increasingly rare
+2024-04-21 19:57:37 - Finding successor for key: 175054363
+2024-04-21 19:57:37 - Finding predecessor for key: 175054363
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 175054363
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: umbrella, definition: a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun
+2024-04-21 19:57:37 - Finding successor for key: 1854404624
+2024-04-21 19:57:37 - Finding predecessor for key: 1854404624
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1854404624
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: violin, definition: a musical instrument of the string family, played with a bow and held between the shoulder and the chin
+2024-04-21 19:57:37 - Finding successor for key: 2025558601
+2024-04-21 19:57:37 - Finding predecessor for key: 2025558601
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 2025558601
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: wolf, definition: a wild carnivorous mammal of the dog family, living and hunting in packs
+2024-04-21 19:57:37 - Finding successor for key: 1403468373
+2024-04-21 19:57:37 - Finding predecessor for key: 1403468373
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1403468373
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: xylophone, definition: a musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic mallets
+2024-04-21 19:57:37 - Finding successor for key: 1936365104
+2024-04-21 19:57:37 - Finding predecessor for key: 1936365104
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1936365104
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: yacht, definition: a medium-sized sailboat equipped for cruising or racing
+2024-04-21 19:57:37 - Finding successor for key: 1956222095
+2024-04-21 19:57:37 - Finding predecessor for key: 1956222095
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Current URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Current node ID: 997047595
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor ID: 1013825214
+2024-04-21 19:57:37 - Returning successor //localhost:1099/node_1
+2024-04-21 19:57:37 - Found closest preceding finger //localhost:1099/node_1 for key 1956222095
+2024-04-21 19:57:37 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 19:57:37 - Found predecessor: //localhost:1099/node_1
+2024-04-21 19:57:37 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 19:57:37 - Successor URL: //localhost:1099/node_0
+2024-04-21 19:57:37 - Inserted word: zebra, definition: an African wild horse with black-and-white stripes and an erect mane
+2024-04-21 20:01:04 - Finding successor for key: 280767167
+2024-04-21 20:01:04 - Finding predecessor for key: 280767167
+2024-04-21 20:01:04 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:04 - Current URL: //localhost:1099/node_0
+2024-04-21 20:01:04 - Current node ID: 997047595
+2024-04-21 20:01:04 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:04 - Successor ID: 1013825214
+2024-04-21 20:01:04 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:04 - Found closest preceding finger //localhost:1099/node_1 for key 280767167
+2024-04-21 20:01:04 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 20:01:04 - Found predecessor: //localhost:1099/node_1
+2024-04-21 20:01:04 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 20:01:04 - Successor URL: //localhost:1099/node_0
+2024-04-21 20:01:04 - Lookup successful for word: apple
+2024-04-21 20:01:17 - Finding successor for key: 795032886
+2024-04-21 20:01:17 - Finding predecessor for key: 795032886
+2024-04-21 20:01:17 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:17 - Current URL: //localhost:1099/node_0
+2024-04-21 20:01:17 - Current node ID: 997047595
+2024-04-21 20:01:17 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:17 - Successor ID: 1013825214
+2024-04-21 20:01:17 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:17 - Found closest preceding finger //localhost:1099/node_1 for key 795032886
+2024-04-21 20:01:17 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 20:01:17 - Found predecessor: //localhost:1099/node_1
+2024-04-21 20:01:17 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 20:01:17 - Successor URL: //localhost:1099/node_0
+2024-04-21 20:01:17 - Inserted word: crazy, definition: hello
+2024-04-21 20:01:23 - Finding successor for key: 795032886
+2024-04-21 20:01:23 - Finding predecessor for key: 795032886
+2024-04-21 20:01:23 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:23 - Current URL: //localhost:1099/node_0
+2024-04-21 20:01:23 - Current node ID: 997047595
+2024-04-21 20:01:23 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:23 - Successor ID: 1013825214
+2024-04-21 20:01:23 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:23 - Found closest preceding finger //localhost:1099/node_1 for key 795032886
+2024-04-21 20:01:23 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 20:01:23 - Found predecessor: //localhost:1099/node_1
+2024-04-21 20:01:23 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 20:01:23 - Successor URL: //localhost:1099/node_0
+2024-04-21 20:01:23 - Lookup successful for word: crazy
+2024-04-21 20:01:46 - Finding successor for key: 1714698159
+2024-04-21 20:01:46 - Finding predecessor for key: 1714698159
+2024-04-21 20:01:46 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:46 - Current URL: //localhost:1099/node_0
+2024-04-21 20:01:46 - Current node ID: 997047595
+2024-04-21 20:01:46 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:46 - Successor ID: 1013825214
+2024-04-21 20:01:46 - Returning successor //localhost:1099/node_1
+2024-04-21 20:01:46 - Found closest preceding finger //localhost:1099/node_1 for key 1714698159
+2024-04-21 20:01:46 - Closest preceding finger: //localhost:1099/node_1
+2024-04-21 20:01:46 - Found predecessor: //localhost:1099/node_1
+2024-04-21 20:01:46 - Predecessor URL: //localhost:1099/node_1
+2024-04-21 20:01:46 - Successor URL: //localhost:1099/node_0
+2024-04-21 20:01:46 - Inserted word: ok, definition: k
+2024-04-21 20:19:51 - Node created with URL: //localhost:1099/node_0
+2024-04-21 20:20:03 - Joined the Chord Ring
+2024-04-21 20:20:03 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_0
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_0
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_0
+2024-04-21 20:20:03 - Found successor //localhost:1099/node_0 for key 1013825215
+2024-04-21 20:20:03 - Returning predecessor //localhost:1099/node_0
+2024-04-21 20:20:03 - Set predecessor to //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:03 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 20:20:03 - Returning successor //localhost:1099/node_1
+2024-04-21 20:20:04 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 20:20:04 - Join lock released by //localhost:1099/node_1
+2024-04-21 20:20:04 - Returning predecessor //localhost:1099/node_1
+2024-04-21 20:20:04 - Printed finger table
+2024-04-21 20:20:04 - Printed dictionary contents
+2024-04-21 20:31:30 - Node created with URL: //localhost:1099/node_0
+2024-04-21 20:31:37 - Joined the Chord Ring
+2024-04-21 20:31:37 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_0
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_0
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_0
+2024-04-21 20:31:37 - Found successor //localhost:1099/node_0 for key 1013825215
+2024-04-21 20:31:37 - Returning predecessor //localhost:1099/node_0
+2024-04-21 20:31:37 - Set predecessor to //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:37 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 20:31:37 - Join lock released by //localhost:1099/node_1
+2024-04-21 20:31:37 - Returning predecessor //localhost:1099/node_1
+2024-04-21 20:31:37 - Printed finger table
+2024-04-21 20:31:37 - Printed dictionary contents
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 280767167
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 280767167
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 280767167
+2024-04-21 20:31:47 - Inserted word: apple, definition: a round fruit with red, yellow, or green skin and firm white flesh
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 645357744
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 645357744
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 645357744
+2024-04-21 20:31:47 - Inserted word: banana, definition: a long curved fruit with a yellow skin and soft sweet flesh
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 108289031
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 108289031
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 108289031
+2024-04-21 20:31:47 - Inserted word: cat, definition: a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 429343479
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 429343479
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 429343479
+2024-04-21 20:31:47 - Inserted word: dog, definition: a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 437181436
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 437181436
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 437181436
+2024-04-21 20:31:47 - Inserted word: elephant, definition: a very large plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1681028633
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1681028633
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1681028633
+2024-04-21 20:31:47 - Inserted word: frog, definition: a tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 333302225
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 333302225
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 333302225
+2024-04-21 20:31:47 - Inserted word: giraffe, definition: a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1685499482
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1685499482
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1685499482
+2024-04-21 20:31:47 - Inserted word: horse, definition: a large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 434560515
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 434560515
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 434560515
+2024-04-21 20:31:47 - Inserted word: igloo, definition: a dome-shaped Eskimo house, typically built from blocks of solid snow
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 252769244
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 252769244
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 252769244
+2024-04-21 20:31:47 - Inserted word: jungle, definition: an area of land overgrown with dense forest and tangled vegetation, typically in the tropics
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1618585429
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1618585429
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1618585429
+2024-04-21 20:31:47 - Inserted word: kangaroo, definition: a large plant-eating marsupial with a long powerful tail and strongly developed hindlimbs that enable it to travel by leaping, found only in Australia and New Guinea
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 220287617
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 220287617
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 220287617
+2024-04-21 20:31:47 - Inserted word: lion, definition: a large tawny-colored cat that lives in prides, found in Africa and northwestern India
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1779846920
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1779846920
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1779846920
+2024-04-21 20:31:47 - Inserted word: monkey, definition: a small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1590744203
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1590744203
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1590744203
+2024-04-21 20:31:47 - Inserted word: nest, definition: a structure or place made or chosen by a bird for laying eggs and sheltering its young
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1094735090
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1094735090
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1094735090
+2024-04-21 20:31:47 - Inserted word: octopus, definition: a cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 788281471
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 788281471
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 788281471
+2024-04-21 20:31:47 - Inserted word: penguin, definition: a flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 263667913
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 263667913
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 263667913
+2024-04-21 20:31:47 - Inserted word: queen, definition: the female ruler of an independent state, especially one who inherits the position by right of birth
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 882795291
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 882795291
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 882795291
+2024-04-21 20:31:47 - Inserted word: rabbit, definition: a gregarious burrowing plant-eating mammal, with long ears, long hind legs, and a short tail
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1342840229
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1342840229
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1342840229
+2024-04-21 20:31:47 - Inserted word: snake, definition: a long limbless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 227495752
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 227495752
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 227495752
+2024-04-21 20:31:47 - Inserted word: tiger, definition: a very large solitary cat with a yellow-brown coat striped with black, native to the forests of Asia but becoming increasingly rare
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 175054363
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 175054363
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 175054363
+2024-04-21 20:31:47 - Inserted word: umbrella, definition: a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1854404624
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1854404624
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1854404624
+2024-04-21 20:31:47 - Inserted word: violin, definition: a musical instrument of the string family, played with a bow and held between the shoulder and the chin
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 2025558601
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 2025558601
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 2025558601
+2024-04-21 20:31:47 - Inserted word: wolf, definition: a wild carnivorous mammal of the dog family, living and hunting in packs
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1403468373
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1403468373
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1403468373
+2024-04-21 20:31:47 - Inserted word: xylophone, definition: a musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic mallets
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1936365104
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1936365104
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1936365104
+2024-04-21 20:31:47 - Inserted word: yacht, definition: a medium-sized sailboat equipped for cruising or racing
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Returning successor //localhost:1099/node_1
+2024-04-21 20:31:47 - Found closest preceding finger //localhost:1099/node_1 for key 1956222095
+2024-04-21 20:31:47 - Found predecessor //localhost:1099/node_1 for key 1956222095
+2024-04-21 20:31:47 - Found successor //localhost:1099/node_0 for key 1956222095
+2024-04-21 20:31:47 - Inserted word: zebra, definition: an African wild horse with black-and-white stripes and an erect mane
+2024-04-21 20:32:10 - Dictionary word count: 26
+2024-04-21 20:32:10 - Node shutdown completed

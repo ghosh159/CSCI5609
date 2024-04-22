@@ -3,6 +3,7 @@
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
+import java.util.concurrent.ConcurrentHashMap;
 
 public interface Node extends Remote {
     public void setPredecessor(String predecessor) throws RemoteException;
@@ -15,6 +16,7 @@ public interface Node extends Remote {
     public boolean releaseJoinLock (String nodeURL) throws RemoteException;
     public boolean insert (String word, String definition) throws RemoteException;
     public String  lookup (String word) throws RemoteException;
+    ConcurrentHashMap<String, String> getDictionary() throws RemoteException;
     public String  printFingerTable() throws RemoteException;
     public String  printDictionary() throws RemoteException;
     public void update_finger_table(String s, int i) throws RemoteException;

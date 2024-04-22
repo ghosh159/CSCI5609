@@ -17,7 +17,8 @@ CLASSES = \
 		  ChordNode.java \
 		  Client.java \
 		  DictionaryLoader.java \
-		  CreateNodes.java
+		  JoinNodes.java \
+		  ShutdownNode.java \
 
 default: compile
 
