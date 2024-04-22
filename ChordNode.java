@@ -1,3 +1,6 @@
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.MalformedURLException;
 import java.rmi.Naming;
@@ -6,7 +9,8 @@ import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
-import java.util.Arrays;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class ChordNode implements Node {
@@ -17,10 +21,11 @@ public class ChordNode implements Node {
     private String[] fingerTable;
     private int m;
     private ConcurrentHashMap<String, String> dictionary;
-    private boolean lock;
+    private boolean isLocked;
     private int rmiport;
     private String hostname;
     private int nodeId;
+
     public ChordNode(String hostname, int rmiport, int nodeId) throws RemoteException {
         super();
 
@@ -34,19 +39,76 @@ public class ChordNode implements Node {
         this.m = 31;
         this.fingerTable = new String[m];
         this.dictionary = new ConcurrentHashMap<>();
-        this.lock = false;
+        this.isLocked = false;
+
+        logMessage("Node created with URL: " + this.url);
+    }
+
+    private void logMessage(String message) {
+        String logFileName = "node_" + this.nodeId + ".log";
+        try (PrintWriter writer = new PrintWriter(new FileWriter(logFileName, true))) {
+            LocalDateTime now = LocalDateTime.now();
+            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+            String timestamp = now.format(formatter);
+            writer.println(timestamp + " - " + message);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
+    public boolean acquireJoinLock(String nodeURL) throws RemoteException {
+        if (this.nodeId == 0) {
+            if (!this.isLocked) {
+                this.isLocked = true;
+                logMessage("Join lock acquired by " + nodeURL);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    @Override
+    public boolean releaseJoinLock(String nodeURL) throws RemoteException {
+        if (this.nodeId == 0) {
+            if (this.isLocked) {
+                this.isLocked = false;
+                logMessage("Join lock released by " + nodeURL);
+                return true;
+            }
+        }
+        return false;
     }
 
     public void join() {
-        if (this.nodeId == 0) {
-            for (int i = 0; i < m; i++) {
-                fingerTable[i] = this.url;
+        try {
+            if (this.nodeId != 0) {
+                String nodeZeroURL = "//" + this.hostname + ":" + this.rmiport + "/node_0";
+                Node nodeZero = (Node) Naming.lookup(nodeZeroURL);
+                while (!nodeZero.acquireJoinLock(this.url)) {
+                    Thread.sleep(1000); // Wait for 1 second before trying again
+                }
             }
-            this.predecessor = this.url;
-        }else{
-            init_finger_table("//" + this.hostname + ":" + this.rmiport + "/node_0");
-            update_others();
-            System.out.println("Joined the Chord Ring");
+
+            if (this.nodeId == 0) {
+                for (int i = 0; i < m; i++) {
+                    fingerTable[i] = this.url;
+                }
+                this.predecessor = this.url;
+            } else {
+                init_finger_table("//" + this.hostname + ":" + this.rmiport + "/node_0");
+                update_others();
+            }
+
+            logMessage("Joined the Chord Ring");
+
+            if (this.nodeId != 0) {
+                String nodeZeroURL = "//" + this.hostname + ":" + this.rmiport + "/node_0";
+                Node nodeZero = (Node) Naming.lookup(nodeZeroURL);
+                nodeZero.releaseJoinLock(this.url);
+            }
+        } catch (InterruptedException | RemoteException | MalformedURLException | NotBoundException e) {
+            e.printStackTrace();
         }
     }
 
@@ -61,11 +123,12 @@ public class ChordNode implements Node {
             for (int i = 0; i < m - 1; i++) {
                 if (left_half_open(this.id, FNV1aHash.modulo31Add(n, (int) Math.pow(2, i + 1)), FNV1aHash.hash32(this.fingerTable[i]))) {
                     this.fingerTable[i + 1] = this.fingerTable[i];
-                }else {
+                } else {
                     this.fingerTable[i + 1] = node_prime.findSuccessor(FNV1aHash.modulo31Add(n, (int) Math.pow(2, i + 1)), false);
                 }
             }
 
+            logMessage("Initialized finger table");
         } catch (NotBoundException | RemoteException | MalformedURLException e) {
             e.printStackTrace();
         }
@@ -78,7 +141,9 @@ public class ChordNode implements Node {
                 Node p_node = (Node) Naming.lookup(p);
                 p_node.update_finger_table(this.url, i);
             }
-        }catch (Exception e){
+
+            logMessage("Updated finger tables of other nodes");
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
@@ -98,6 +163,8 @@ public class ChordNode implements Node {
                 Node p_node = (Node) Naming.lookup(this.predecessor);
                 p_node.update_finger_table(this.url, i);
             }
+
+            logMessage("Updated finger table entry " + i + " with " + s);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -105,10 +172,12 @@ public class ChordNode implements Node {
 
     @Override
     public String findSuccessor(int key, boolean traceFlag) throws RemoteException {
-        try{
+        try {
             Node n_prime_node = (Node) Naming.lookup(findPredecessor(key, traceFlag));
-            return n_prime_node.successor();
-        }catch (Exception e){
+            String successorURL = n_prime_node.successor();
+            logMessage("Found successor " + successorURL + " for key " + key);
+            return successorURL;
+        } catch (Exception e) {
             e.printStackTrace();
         }
         return null;
@@ -127,8 +196,8 @@ public class ChordNode implements Node {
         try {
             String n_prime_url = this.url;
             Node n_prime_node = (Node) Naming.lookup(n_prime_url);
-            
-            while(!(left_half_open(FNV1aHash.hash32(n_prime_url), key, FNV1aHash.hash32(n_prime_node.successor())))) {
+
+            while (!(left_half_open(FNV1aHash.hash32(n_prime_url), key, FNV1aHash.hash32(n_prime_node.successor())))) {
                 if (n_prime_url.equals(n_prime_node.successor())) {
                     return n_prime_url;
                 }
@@ -138,8 +207,10 @@ public class ChordNode implements Node {
                 n_prime_url = n_prime_node.closestPrecedingFinger(key);
                 n_prime_node = (Node) Naming.lookup(n_prime_url);
             }
+
+            logMessage("Found predecessor " + n_prime_url + " for key " + key);
             return n_prime_url;
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
         return null;
@@ -148,6 +219,7 @@ public class ChordNode implements Node {
     @Override
     public void setPredecessor(String predecessor) {
         this.predecessor = predecessor;
+        logMessage("Set predecessor to " + predecessor);
     }
 
     private boolean open_range(int x, int y, int z) {
@@ -162,47 +234,47 @@ public class ChordNode implements Node {
     public String closestPrecedingFinger(int key) throws RemoteException {
         for (int i = m - 1; i >= 0; i--) {
             if (open_range(this.id, FNV1aHash.hash32(this.fingerTable[i]), key)) {
+                logMessage("Found closest preceding finger " + this.fingerTable[i] + " for key " + key);
                 return this.fingerTable[i];
             }
         }
+        logMessage("Closest preceding finger not found for key " + key + ", returning self URL " + this.url);
         return this.url;
     }
 
     @Override
     public String successor() throws RemoteException {
+        logMessage("Returning successor " + this.fingerTable[0]);
         return this.fingerTable[0];
     }
 
     @Override
     public String predecessor() throws RemoteException {
+        logMessage("Returning predecessor " + this.predecessor);
         return this.predecessor;
-    }
-
-    @Override
-    public boolean acquireJoinLock(String nodeURL) throws RemoteException {
-        return false;
-    }
-
-    @Override
-    public boolean releaseJoinLock(String nodeURL) throws RemoteException {
-        return false;
     }
 
     @Override
     public boolean insert(String word, String definition) throws RemoteException {
         try {
             this.dictionary.put(word, definition);
+            logMessage("Inserted word: " + word + ", definition: " + definition);
             return true;
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
             return false;
         }
-        
     }
 
     @Override
     public String lookup(String word) throws RemoteException {
-        return this.dictionary.get(word);
+        String definition = this.dictionary.get(word);
+        if (definition != null) {
+            logMessage("Lookup successful for word: " + word);
+        } else {
+            logMessage("Lookup failed for word: " + word);
+        }
+        return definition;
     }
 
     @Override
@@ -214,21 +286,34 @@ public class ChordNode implements Node {
             output.append(i).append(" -> ").append(this.fingerTable[i]).append("\n");
         }
         output.append("END OF TABLE\n");
+
+        logMessage("Printed finger table");
+
         return output.toString();
     }
 
     @Override
     public String printDictionary() throws RemoteException {
-        return null;
+        StringBuilder sb = new StringBuilder();
+        sb.append("Dictionary contents for Node ").append(this.nodeId).append(":\n");
+        for (String word : this.dictionary.keySet()) {
+            sb.append(word).append(": ").append(this.dictionary.get(word)).append("\n");
+        }
+
+        logMessage("Printed dictionary contents");
+
+        return sb.toString();
     }
 
     @Override
     public void shutdown() throws RemoteException {
-        try{
+        try {
             Registry registry = LocateRegistry.getRegistry(rmiport);
             registry.unbind("node_" + this.nodeId);
             UnicastRemoteObject.unexportObject(this, true);
-        }catch (Exception e){
+
+            logMessage("Node shutdown completed");
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
@@ -237,16 +322,16 @@ public class ChordNode implements Node {
         if (args.length < 1) {
             System.err.println("Usage: java ChordNode <node-ID> <rmiport>");
             System.exit(1);
-        } //ensure user enters correct number of parameters
+        }
 
         int nodeID = Integer.parseInt(args[0]);
         int rmiport = 1099;
 
-        if (args.length == 2){
+        if (args.length == 2) {
             rmiport = Integer.parseInt(args[1]);
         }
 
-        try{
+        try {
             ChordNode node;
             Node chordNodeStub;
 
@@ -259,15 +344,14 @@ public class ChordNode implements Node {
 
             Naming.bind(url, chordNodeStub);
 
-            System.out.println("Started Node_" + nodeID + " on host: " + InetAddress.getLocalHost().getCanonicalHostName() );
+            System.out.println("Started Node_" + nodeID + " on host: " + InetAddress.getLocalHost().getCanonicalHostName());
 
             int seconds = 3600;
             System.out.println("Server will shutdown in " + seconds + " seconds\n");
             Thread.sleep(seconds * 1000);
             chordNodeStub.shutdown();
             System.out.println("Completed shutting down the RMI server\n");
-
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }

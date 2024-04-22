@@ -17,10 +17,14 @@ public class CreateNodes {
             for(int i = 0; i < num_nodes; i++) {
                 System.out.println(nodes[i].printFingerTable());
             }
+            String word = "apple";
+            int key = FNV1aHash.hash32(word);
+            System.out.println("Word: " + word + "Key: " + key);
+            System.out.println("URL: " + nodes[0].findSuccessor(key, false));
             //Shutdown
-            for(int i = 0; i < num_nodes; i++) {
-                nodes[i].shutdown();
-            }
+            // for(int i = 0; i < num_nodes; i++) {
+            //     nodes[i].shutdown();
+            // }
         }catch (Exception e) {
             e.printStackTrace();
         }

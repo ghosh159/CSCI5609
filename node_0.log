@@ -1,0 +1,1847 @@
+2024-04-21 19:47:04 - Node created with URL: //localhost:1099/node_0
+2024-04-21 19:47:28 - Joined the Chord Ring
+2024-04-21 19:47:28 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_0
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_0
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_0
+2024-04-21 19:47:28 - Found successor //localhost:1099/node_0 for key 1013825215
+2024-04-21 19:47:28 - Returning predecessor //localhost:1099/node_0
+2024-04-21 19:47:28 - Set predecessor to //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:28 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 19:47:28 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Join lock released by //localhost:1099/node_1
+2024-04-21 19:47:29 - Join lock acquired by //localhost:1099/node_2
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602834
+2024-04-21 19:47:29 - Found predecessor //localhost:1099/node_1 for key 1030602834
+2024-04-21 19:47:29 - Found successor //localhost:1099/node_0 for key 1030602834
+2024-04-21 19:47:29 - Returning predecessor //localhost:1099/node_1
+2024-04-21 19:47:29 - Set predecessor to //localhost:1099/node_2
+2024-04-21 19:47:29 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602832
+2024-04-21 19:47:29 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602830
+2024-04-21 19:47:29 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602826
+2024-04-21 19:47:29 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602818
+2024-04-21 19:47:29 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602802
+2024-04-21 19:47:29 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602770
+2024-04-21 19:47:29 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602706
+2024-04-21 19:47:29 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602578
+2024-04-21 19:47:29 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030602322
+2024-04-21 19:47:29 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030601810
+2024-04-21 19:47:29 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030600786
+2024-04-21 19:47:29 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030598738
+2024-04-21 19:47:29 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030594642
+2024-04-21 19:47:29 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030586450
+2024-04-21 19:47:29 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030570066
+2024-04-21 19:47:29 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030537298
+2024-04-21 19:47:29 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030471762
+2024-04-21 19:47:29 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030340690
+2024-04-21 19:47:29 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1030078546
+2024-04-21 19:47:29 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1029554258
+2024-04-21 19:47:29 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1028505682
+2024-04-21 19:47:29 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1026408530
+2024-04-21 19:47:29 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1022214226
+2024-04-21 19:47:29 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1013825618
+2024-04-21 19:47:29 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Updated finger table entry 25 with //localhost:1099/node_2
+2024-04-21 19:47:29 - Join lock released by //localhost:1099/node_2
+2024-04-21 19:47:29 - Join lock acquired by //localhost:1099/node_3
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380453
+2024-04-21 19:47:29 - Found predecessor //localhost:1099/node_2 for key 1047380453
+2024-04-21 19:47:29 - Found successor //localhost:1099/node_0 for key 1047380453
+2024-04-21 19:47:29 - Returning predecessor //localhost:1099/node_2
+2024-04-21 19:47:29 - Set predecessor to //localhost:1099/node_3
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380451
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380449
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380445
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380437
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380421
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380389
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380325
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047380197
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047379941
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047379429
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047378405
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047376357
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047372261
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047364069
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047347685
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047314917
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047249381
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1047118309
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1046856165
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1046331877
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1045283301
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1043186149
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1038991845
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1030603237
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_1 for key 1013826021
+2024-04-21 19:47:29 - Updated finger table entry 25 with //localhost:1099/node_1
+2024-04-21 19:47:29 - Join lock released by //localhost:1099/node_3
+2024-04-21 19:47:29 - Join lock acquired by //localhost:1099/node_4
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064158072
+2024-04-21 19:47:29 - Found predecessor //localhost:1099/node_3 for key 1064158072
+2024-04-21 19:47:29 - Found successor //localhost:1099/node_0 for key 1064158072
+2024-04-21 19:47:29 - Returning predecessor //localhost:1099/node_3
+2024-04-21 19:47:29 - Set predecessor to //localhost:1099/node_4
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064158070
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064158068
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064158064
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064158056
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064158040
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064158008
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064157944
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064157816
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064157560
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064157048
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064156024
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064153976
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:29 - Found closest preceding finger //localhost:1099/node_2 for key 1064149880
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1064141688
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1064125304
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1064092536
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1064027000
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1063895928
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1063633784
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1063109496
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1062060920
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1059963768
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1055769464
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1047380856
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1030603640
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Updated finger table entry 26 with //localhost:1099/node_4
+2024-04-21 19:47:30 - Join lock released by //localhost:1099/node_4
+2024-04-21 19:47:30 - Join lock acquired by //localhost:1099/node_5
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935691
+2024-04-21 19:47:30 - Found predecessor //localhost:1099/node_4 for key 1080935691
+2024-04-21 19:47:30 - Found successor //localhost:1099/node_0 for key 1080935691
+2024-04-21 19:47:30 - Returning predecessor //localhost:1099/node_4
+2024-04-21 19:47:30 - Set predecessor to //localhost:1099/node_5
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935689
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935687
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935683
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935675
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935659
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935627
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935563
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935435
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080935179
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080934667
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080933643
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080931595
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080927499
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080919307
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080902923
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080870155
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080804619
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080673547
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080411403
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1079887115
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1078838539
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1076741387
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1072547083
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1064158475
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1047381259
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_1 for key 1013826827
+2024-04-21 19:47:30 - Updated finger table entry 26 with //localhost:1099/node_1
+2024-04-21 19:47:30 - Join lock released by //localhost:1099/node_5
+2024-04-21 19:47:30 - Join lock acquired by //localhost:1099/node_6
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713310
+2024-04-21 19:47:30 - Found predecessor //localhost:1099/node_5 for key 1097713310
+2024-04-21 19:47:30 - Found successor //localhost:1099/node_0 for key 1097713310
+2024-04-21 19:47:30 - Returning predecessor //localhost:1099/node_5
+2024-04-21 19:47:30 - Set predecessor to //localhost:1099/node_6
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713308
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713306
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713302
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713294
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713278
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713246
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713182
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097713054
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097712798
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097712286
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097711262
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097709214
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097705118
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097696926
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097680542
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097647774
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097582238
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097451166
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1097189022
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1096664734
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1095616158
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1093519006
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1089324702
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1080936094
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1064158878
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_2 for key 1030604446
+2024-04-21 19:47:30 - Join lock released by //localhost:1099/node_6
+2024-04-21 19:47:30 - Join lock acquired by //localhost:1099/node_7
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490929
+2024-04-21 19:47:30 - Found predecessor //localhost:1099/node_6 for key 1114490929
+2024-04-21 19:47:30 - Found successor //localhost:1099/node_0 for key 1114490929
+2024-04-21 19:47:30 - Returning predecessor //localhost:1099/node_6
+2024-04-21 19:47:30 - Set predecessor to //localhost:1099/node_7
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490927
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490925
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490921
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490913
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490897
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490865
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490801
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490673
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:30 - Found closest preceding finger //localhost:1099/node_4 for key 1114490417
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114489905
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114488881
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114486833
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114482737
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114474545
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114458161
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114425393
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114359857
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1114228785
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1113966641
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1113442353
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1112393777
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1110296625
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1106102321
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1097713713
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 1080936497
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_2 for key 1047382065
+2024-04-21 19:47:31 - Join lock released by //localhost:1099/node_7
+2024-04-21 19:47:31 - Returning predecessor //localhost:1099/node_7
+2024-04-21 19:47:31 - Printed finger table
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Returning successor //localhost:1099/node_1
+2024-04-21 19:47:31 - Found closest preceding finger //localhost:1099/node_4 for key 280767167
+2024-04-21 19:47:31 - Found predecessor //localhost:1099/node_7 for key 280767167
+2024-04-21 19:47:31 - Found successor //localhost:1099/node_0 for key 280767167
+2024-04-21 19:47:31 - Node shutdown completed
+2024-04-21 19:58:10 - Node created with URL: //localhost:1099/node_0
+2024-04-21 19:59:51 - Returning successor null
+2024-04-21 20:02:52 - Node created with URL: //localhost:1099/node_0
+2024-04-21 20:03:35 - Returning successor null
+2024-04-21 20:04:25 - Returning successor null
+2024-04-21 20:04:53 - Returning successor null
+2024-04-21 20:04:53 - Returning successor null
+2024-04-21 20:05:11 - Joined the Chord Ring
+2024-04-21 20:05:11 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_0
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_0
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_0
+2024-04-21 20:05:11 - Found successor //localhost:1099/node_0 for key 1013825215
+2024-04-21 20:05:11 - Returning predecessor //localhost:1099/node_0
+2024-04-21 20:05:11 - Set predecessor to //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Join lock released by //localhost:1099/node_1
+2024-04-21 20:05:11 - Join lock acquired by //localhost:1099/node_2
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602834
+2024-04-21 20:05:11 - Found predecessor //localhost:1099/node_1 for key 1030602834
+2024-04-21 20:05:11 - Found successor //localhost:1099/node_0 for key 1030602834
+2024-04-21 20:05:11 - Returning predecessor //localhost:1099/node_1
+2024-04-21 20:05:11 - Set predecessor to //localhost:1099/node_2
+2024-04-21 20:05:11 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602832
+2024-04-21 20:05:11 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602830
+2024-04-21 20:05:11 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602826
+2024-04-21 20:05:11 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602818
+2024-04-21 20:05:11 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602802
+2024-04-21 20:05:11 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602770
+2024-04-21 20:05:11 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602706
+2024-04-21 20:05:11 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602578
+2024-04-21 20:05:11 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030602322
+2024-04-21 20:05:11 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030601810
+2024-04-21 20:05:11 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030600786
+2024-04-21 20:05:11 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030598738
+2024-04-21 20:05:11 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030594642
+2024-04-21 20:05:11 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030586450
+2024-04-21 20:05:11 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030570066
+2024-04-21 20:05:11 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030537298
+2024-04-21 20:05:11 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030471762
+2024-04-21 20:05:11 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030340690
+2024-04-21 20:05:11 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1030078546
+2024-04-21 20:05:11 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1029554258
+2024-04-21 20:05:11 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1028505682
+2024-04-21 20:05:11 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1026408530
+2024-04-21 20:05:11 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1022214226
+2024-04-21 20:05:11 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1013825618
+2024-04-21 20:05:11 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Updated finger table entry 25 with //localhost:1099/node_2
+2024-04-21 20:05:11 - Join lock released by //localhost:1099/node_2
+2024-04-21 20:05:11 - Join lock acquired by //localhost:1099/node_3
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380453
+2024-04-21 20:05:11 - Found predecessor //localhost:1099/node_2 for key 1047380453
+2024-04-21 20:05:11 - Found successor //localhost:1099/node_0 for key 1047380453
+2024-04-21 20:05:11 - Returning predecessor //localhost:1099/node_2
+2024-04-21 20:05:11 - Set predecessor to //localhost:1099/node_3
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380451
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380449
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380445
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380437
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380421
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380389
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380325
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047380197
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047379941
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047379429
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047378405
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047376357
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047372261
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047364069
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047347685
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047314917
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047249381
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1047118309
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1046856165
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1046331877
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1045283301
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1043186149
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1038991845
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1030603237
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_1 for key 1013826021
+2024-04-21 20:05:11 - Updated finger table entry 25 with //localhost:1099/node_1
+2024-04-21 20:05:11 - Join lock released by //localhost:1099/node_3
+2024-04-21 20:05:11 - Join lock acquired by //localhost:1099/node_4
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:11 - Found closest preceding finger //localhost:1099/node_2 for key 1064158072
+2024-04-21 20:05:11 - Found predecessor //localhost:1099/node_3 for key 1064158072
+2024-04-21 20:05:11 - Found successor //localhost:1099/node_0 for key 1064158072
+2024-04-21 20:05:11 - Returning predecessor //localhost:1099/node_3
+2024-04-21 20:05:11 - Set predecessor to //localhost:1099/node_4
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064158070
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064158068
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064158064
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064158056
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064158040
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064158008
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064157944
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064157816
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064157560
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064157048
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064156024
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064153976
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064149880
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064141688
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064125304
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064092536
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1064027000
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1063895928
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1063633784
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1063109496
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1062060920
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1059963768
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1055769464
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1047380856
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1030603640
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Updated finger table entry 26 with //localhost:1099/node_4
+2024-04-21 20:05:12 - Join lock released by //localhost:1099/node_4
+2024-04-21 20:05:12 - Join lock acquired by //localhost:1099/node_5
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935691
+2024-04-21 20:05:12 - Found predecessor //localhost:1099/node_4 for key 1080935691
+2024-04-21 20:05:12 - Found successor //localhost:1099/node_0 for key 1080935691
+2024-04-21 20:05:12 - Returning predecessor //localhost:1099/node_4
+2024-04-21 20:05:12 - Set predecessor to //localhost:1099/node_5
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935689
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935687
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935683
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935675
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935659
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935627
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935563
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935435
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080935179
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080934667
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080933643
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080931595
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080927499
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080919307
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080902923
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080870155
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080804619
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080673547
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080411403
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1079887115
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1078838539
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1076741387
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1072547083
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1064158475
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1047381259
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_1 for key 1013826827
+2024-04-21 20:05:12 - Updated finger table entry 26 with //localhost:1099/node_1
+2024-04-21 20:05:12 - Join lock released by //localhost:1099/node_5
+2024-04-21 20:05:12 - Join lock acquired by //localhost:1099/node_6
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713310
+2024-04-21 20:05:12 - Found predecessor //localhost:1099/node_5 for key 1097713310
+2024-04-21 20:05:12 - Found successor //localhost:1099/node_0 for key 1097713310
+2024-04-21 20:05:12 - Returning predecessor //localhost:1099/node_5
+2024-04-21 20:05:12 - Set predecessor to //localhost:1099/node_6
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713308
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713306
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713302
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713294
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713278
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713246
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713182
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097713054
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097712798
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097712286
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097711262
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097709214
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097705118
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097696926
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097680542
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097647774
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097582238
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097451166
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1097189022
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1096664734
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1095616158
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1093519006
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1089324702
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1080936094
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_4 for key 1064158878
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:12 - Found closest preceding finger //localhost:1099/node_2 for key 1030604446
+2024-04-21 20:05:12 - Join lock released by //localhost:1099/node_6
+2024-04-21 20:05:13 - Join lock acquired by //localhost:1099/node_7
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490929
+2024-04-21 20:05:13 - Found predecessor //localhost:1099/node_6 for key 1114490929
+2024-04-21 20:05:13 - Found successor //localhost:1099/node_0 for key 1114490929
+2024-04-21 20:05:13 - Returning predecessor //localhost:1099/node_6
+2024-04-21 20:05:13 - Set predecessor to //localhost:1099/node_7
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490927
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490925
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490921
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490913
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490897
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490865
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490801
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490673
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114490417
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114489905
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114488881
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114486833
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114482737
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114474545
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114458161
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114425393
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114359857
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1114228785
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1113966641
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1113442353
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1112393777
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1110296625
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1106102321
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1097713713
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 1080936497
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_2 for key 1047382065
+2024-04-21 20:05:13 - Join lock released by //localhost:1099/node_7
+2024-04-21 20:05:13 - Returning predecessor //localhost:1099/node_7
+2024-04-21 20:05:13 - Printed finger table
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Returning successor //localhost:1099/node_1
+2024-04-21 20:05:13 - Found closest preceding finger //localhost:1099/node_4 for key 280767167
+2024-04-21 20:05:13 - Found predecessor //localhost:1099/node_7 for key 280767167
+2024-04-21 20:05:13 - Found successor //localhost:1099/node_0 for key 280767167
+2024-04-21 20:05:13 - Node shutdown completed
+2024-04-21 20:05:43 - Node created with URL: //localhost:1099/node_0
+2024-04-21 20:06:07 - Joined the Chord Ring
+2024-04-21 20:06:07 - Join lock acquired by //localhost:1099/node_1
+2024-04-21 20:06:07 - Returning successor //localhost:1099/node_0
+2024-04-21 20:06:07 - Returning successor //localhost:1099/node_0
+2024-04-21 20:06:07 - Returning successor //localhost:1099/node_0
+2024-04-21 20:06:07 - Found successor //localhost:1099/node_0 for key 1013825215
+2024-04-21 20:06:07 - Returning predecessor //localhost:1099/node_0
+2024-04-21 20:06:07 - Set predecessor to //localhost:1099/node_1
+2024-04-21 20:06:07 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 20:06:07 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:07 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 20:06:07 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:07 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Join lock released by //localhost:1099/node_1
+2024-04-21 20:06:08 - Join lock acquired by //localhost:1099/node_2
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602834
+2024-04-21 20:06:08 - Found predecessor //localhost:1099/node_1 for key 1030602834
+2024-04-21 20:06:08 - Found successor //localhost:1099/node_0 for key 1030602834
+2024-04-21 20:06:08 - Returning predecessor //localhost:1099/node_1
+2024-04-21 20:06:08 - Set predecessor to //localhost:1099/node_2
+2024-04-21 20:06:08 - Updated finger table entry 0 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602832
+2024-04-21 20:06:08 - Updated finger table entry 1 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602830
+2024-04-21 20:06:08 - Updated finger table entry 2 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602826
+2024-04-21 20:06:08 - Updated finger table entry 3 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602818
+2024-04-21 20:06:08 - Updated finger table entry 4 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602802
+2024-04-21 20:06:08 - Updated finger table entry 5 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602770
+2024-04-21 20:06:08 - Updated finger table entry 6 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602706
+2024-04-21 20:06:08 - Updated finger table entry 7 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602578
+2024-04-21 20:06:08 - Updated finger table entry 8 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030602322
+2024-04-21 20:06:08 - Updated finger table entry 9 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030601810
+2024-04-21 20:06:08 - Updated finger table entry 10 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030600786
+2024-04-21 20:06:08 - Updated finger table entry 11 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030598738
+2024-04-21 20:06:08 - Updated finger table entry 12 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030594642
+2024-04-21 20:06:08 - Updated finger table entry 13 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030586450
+2024-04-21 20:06:08 - Updated finger table entry 14 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030570066
+2024-04-21 20:06:08 - Updated finger table entry 15 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030537298
+2024-04-21 20:06:08 - Updated finger table entry 16 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030471762
+2024-04-21 20:06:08 - Updated finger table entry 17 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030340690
+2024-04-21 20:06:08 - Updated finger table entry 18 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1030078546
+2024-04-21 20:06:08 - Updated finger table entry 19 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1029554258
+2024-04-21 20:06:08 - Updated finger table entry 20 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1028505682
+2024-04-21 20:06:08 - Updated finger table entry 21 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1026408530
+2024-04-21 20:06:08 - Updated finger table entry 22 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1022214226
+2024-04-21 20:06:08 - Updated finger table entry 23 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1013825618
+2024-04-21 20:06:08 - Updated finger table entry 24 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Updated finger table entry 25 with //localhost:1099/node_2
+2024-04-21 20:06:08 - Join lock released by //localhost:1099/node_2
+2024-04-21 20:06:08 - Join lock acquired by //localhost:1099/node_3
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380453
+2024-04-21 20:06:08 - Found predecessor //localhost:1099/node_2 for key 1047380453
+2024-04-21 20:06:08 - Found successor //localhost:1099/node_0 for key 1047380453
+2024-04-21 20:06:08 - Returning predecessor //localhost:1099/node_2
+2024-04-21 20:06:08 - Set predecessor to //localhost:1099/node_3
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380451
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380449
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380445
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380437
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380421
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380389
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380325
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047380197
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047379941
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047379429
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047378405
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047376357
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047372261
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047364069
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047347685
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047314917
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047249381
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1047118309
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1046856165
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1046331877
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1045283301
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1043186149
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1038991845
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1030603237
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_1 for key 1013826021
+2024-04-21 20:06:08 - Updated finger table entry 25 with //localhost:1099/node_1
+2024-04-21 20:06:08 - Join lock released by //localhost:1099/node_3
+2024-04-21 20:06:08 - Join lock acquired by //localhost:1099/node_4
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064158072
+2024-04-21 20:06:08 - Found predecessor //localhost:1099/node_3 for key 1064158072
+2024-04-21 20:06:08 - Found successor //localhost:1099/node_0 for key 1064158072
+2024-04-21 20:06:08 - Returning predecessor //localhost:1099/node_3
+2024-04-21 20:06:08 - Set predecessor to //localhost:1099/node_4
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064158070
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064158068
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064158064
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064158056
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064158040
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064158008
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064157944
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064157816
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064157560
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064157048
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064156024
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064153976
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064149880
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064141688
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064125304
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:08 - Found closest preceding finger //localhost:1099/node_2 for key 1064092536
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1064027000
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1063895928
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1063633784
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1063109496
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1062060920
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1059963768
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1055769464
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1047380856
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1030603640
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Updated finger table entry 26 with //localhost:1099/node_4
+2024-04-21 20:06:09 - Join lock released by //localhost:1099/node_4
+2024-04-21 20:06:09 - Join lock acquired by //localhost:1099/node_5
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935691
+2024-04-21 20:06:09 - Found predecessor //localhost:1099/node_4 for key 1080935691
+2024-04-21 20:06:09 - Found successor //localhost:1099/node_0 for key 1080935691
+2024-04-21 20:06:09 - Returning predecessor //localhost:1099/node_4
+2024-04-21 20:06:09 - Set predecessor to //localhost:1099/node_5
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935689
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935687
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935683
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935675
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935659
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935627
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935563
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935435
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080935179
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080934667
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080933643
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080931595
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080927499
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080919307
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080902923
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080870155
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080804619
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080673547
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080411403
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1079887115
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1078838539
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1076741387
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1072547083
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1064158475
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1047381259
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_1 for key 1013826827
+2024-04-21 20:06:09 - Updated finger table entry 26 with //localhost:1099/node_1
+2024-04-21 20:06:09 - Join lock released by //localhost:1099/node_5
+2024-04-21 20:06:09 - Join lock acquired by //localhost:1099/node_6
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713310
+2024-04-21 20:06:09 - Found predecessor //localhost:1099/node_5 for key 1097713310
+2024-04-21 20:06:09 - Found successor //localhost:1099/node_0 for key 1097713310
+2024-04-21 20:06:09 - Returning predecessor //localhost:1099/node_5
+2024-04-21 20:06:09 - Set predecessor to //localhost:1099/node_6
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713308
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713306
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713302
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713294
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713278
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713246
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713182
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097713054
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097712798
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097712286
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097711262
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097709214
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097705118
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097696926
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097680542
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097647774
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097582238
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097451166
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1097189022
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1096664734
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1095616158
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1093519006
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1089324702
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1080936094
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1064158878
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_2 for key 1030604446
+2024-04-21 20:06:09 - Join lock released by //localhost:1099/node_6
+2024-04-21 20:06:09 - Join lock acquired by //localhost:1099/node_7
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490929
+2024-04-21 20:06:09 - Found predecessor //localhost:1099/node_6 for key 1114490929
+2024-04-21 20:06:09 - Found successor //localhost:1099/node_0 for key 1114490929
+2024-04-21 20:06:09 - Returning predecessor //localhost:1099/node_6
+2024-04-21 20:06:09 - Set predecessor to //localhost:1099/node_7
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490927
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490925
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490921
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490913
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490897
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490865
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490801
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490673
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114490417
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:09 - Found closest preceding finger //localhost:1099/node_4 for key 1114489905
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114488881
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114486833
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114482737
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114474545
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114458161
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114425393
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114359857
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1114228785
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1113966641
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1113442353
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1112393777
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1110296625
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1106102321
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1097713713
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 1080936497
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_2 for key 1047382065
+2024-04-21 20:06:10 - Join lock released by //localhost:1099/node_7
+2024-04-21 20:06:10 - Returning predecessor //localhost:1099/node_7
+2024-04-21 20:06:10 - Printed finger table
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:10 - Found closest preceding finger //localhost:1099/node_4 for key 280767167
+2024-04-21 20:06:10 - Found predecessor //localhost:1099/node_7 for key 280767167
+2024-04-21 20:06:10 - Found successor //localhost:1099/node_0 for key 280767167
+2024-04-21 20:06:19 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:19 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:19 - Found closest preceding finger //localhost:1099/node_4 for key 280767167
+2024-04-21 20:06:19 - Found predecessor //localhost:1099/node_7 for key 280767167
+2024-04-21 20:06:19 - Found successor //localhost:1099/node_0 for key 280767167
+2024-04-21 20:06:19 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:19 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:19 - Found closest preceding finger //localhost:1099/node_4 for key 280767167
+2024-04-21 20:06:19 - Found predecessor //localhost:1099/node_7 for key 280767167
+2024-04-21 20:06:19 - Found successor //localhost:1099/node_0 for key 280767167
+2024-04-21 20:06:19 - Inserted word: apple, definition: a fruit
+2024-04-21 20:06:28 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:28 - Returning successor //localhost:1099/node_1
+2024-04-21 20:06:28 - Found closest preceding finger //localhost:1099/node_4 for key 280767167
+2024-04-21 20:06:28 - Found predecessor //localhost:1099/node_7 for key 280767167
+2024-04-21 20:06:28 - Found successor //localhost:1099/node_0 for key 280767167
+2024-04-21 20:06:28 - Lookup successful for word: apple
+2024-04-21 21:05:43 - Node shutdown completed

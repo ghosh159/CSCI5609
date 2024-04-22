@@ -12,8 +12,11 @@ public class Client {
 
         try {
             Node node = (Node) Naming.lookup(chordNodeURL);
+
             Scanner scanner = new Scanner(System.in);
+
             int choice;
+
             do {
                 System.out.println("Enter 1 to lookup, 2 to insert a new (key-value) item, or 3 to exit");
                 System.out.print("Enter your choice: ");
@@ -28,14 +31,21 @@ public class Client {
                         String lookupNodeURL = node.findSuccessor(lookupKey, false);
                         Node lookupNode = (Node) Naming.lookup(lookupNodeURL);
                         String definition = lookupNode.lookup(lookupWord);
-                        System.out.println("Result: " + definition);
+                        if (definition != null) {
+                            System.out.println("Result: " + definition);
+                        } else {
+                            System.out.println("Word not found in the dictionary.");
+                        }
                         break;
                     case 2:
                         System.out.print("Enter a word: ");
                         String insertWord = scanner.nextLine();
+                        System.out.println(insertWord);
                         System.out.print("Enter the meaning: ");
                         String insertDefinition = scanner.nextLine();
+                        System.out.println(insertDefinition);
                         int insertKey = FNV1aHash.hash32(insertWord);
+                        System.out.println(node.findSuccessor(insertKey, false));
                         String insertNodeURL = node.findSuccessor(insertKey, false);
                         Node insertNode = (Node) Naming.lookup(insertNodeURL);
                         insertNode.insert(insertWord, insertDefinition);
@@ -48,6 +58,7 @@ public class Client {
                         System.out.println("Invalid choice!");
                 }
             } while (choice != 3);
+
             scanner.close();
         } catch (Exception e) {
             e.printStackTrace();
