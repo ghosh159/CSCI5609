@@ -27,5 +27,3 @@ compile: $(CLASSES:.java=.class)
 clean:
 	$(RM) *.class
 	$(RM) *.log
-clear:
-    $(RM) *.log

@@ -42,3 +42,5 @@ sleep 5
 for ((i=0; i<8; i++)); do
     java -classpath . ShutdownNode //localhost:1099/node_$i
 done
+
+fuser -k 1099/tcp
