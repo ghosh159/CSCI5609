@@ -27,6 +27,10 @@ public class JoinNodes {
                         e.printStackTrace();
                     }
                 });
+            }
+
+            //Start all threads
+            for (int i = 0; i < threads.length; i++) {
                 threads[i].start();
             }
 

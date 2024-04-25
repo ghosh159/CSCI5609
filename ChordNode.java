@@ -57,7 +57,7 @@ public class ChordNode implements Node {
     }
 
     @Override
-    public boolean acquireJoinLock(String nodeURL) throws RemoteException {
+    public synchronized boolean acquireJoinLock(String nodeURL) throws RemoteException {
         if (this.nodeId == 0) {
             if (!this.isLocked) {
                 this.isLocked = true;
@@ -69,7 +69,7 @@ public class ChordNode implements Node {
     }
 
     @Override
-    public boolean releaseJoinLock(String nodeURL) throws RemoteException {
+    public synchronized boolean releaseJoinLock(String nodeURL) throws RemoteException {
         if (this.nodeId == 0) {
             if (this.isLocked) {
                 this.isLocked = false;
@@ -86,7 +86,7 @@ public class ChordNode implements Node {
                 String nodeZeroURL = "//" + this.hostname + ":" + this.rmiport + "/node_0";
                 Node nodeZero = (Node) Naming.lookup(nodeZeroURL);
                 while (!nodeZero.acquireJoinLock(this.url)) {
-                    Thread.sleep(1000); // Wait for 1 second before trying again
+                    Thread.sleep(100); // Wait for 1 second before trying again
                 }
             }
 
